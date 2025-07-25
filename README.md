@@ -35,8 +35,8 @@ This interactive Power BI dashboard analyzes the **performance of digital ad cam
 - Custom DAX Measures for: `CTR %`, `ROI 
 ## 📁 Files Included
 
-- `AdCampaignDashboard.pbix`: Power BI project file  
-- `Ad_Campaign_Data.xlsx`: Sample dataset (can be added)
+- ``: Power BI project file  
+- 'https://github.com/pragya378/ad-campaign-powerbi/blob/main/AdCampaignData.xlsx': Sample dataset (can be added)
 - `README.md`: This documentation  
 - `.png` Screenshots of final dashboard (for preview on GitHub)
 
