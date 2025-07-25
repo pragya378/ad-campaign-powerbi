@@ -1,2 +1,6 @@
-# ad-campaign-powerbi
-This Power BI dashboard analyzes digital ad performance across Facebook, Google, and Instagram. It visualizes key metrics like ROI, CTR, and Revenue to support data-driven marketing decisions.
+# 📊 Ad Campaign Performance Dashboard (Power BI Project)
+
+## 🔍 Project Overview
+
+This interactive Power BI dashboard analyzes the **performance of digital ad campaigns** across three major platforms: **Facebook, Google, and Instagram**. It visualizes key marketing metrics such as **Impressions, Clicks, Cost, Revenue, ROI, CTR%**, providing clear insights to optimize marketing decisions.
+
