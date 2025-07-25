@@ -64,7 +64,7 @@ This interactive Power BI dashboard analyzes the **performance of digital ad cam
 - Designing layout and color for recruiter-friendly visuals
 ## 📧 Contact
 
-**Created by:** PRAGYA PATLE
+**Created by: PRAGYA PATLE
 **LinkedIn:** *https://www.linkedin.com/in/pragya-patle-b45a54270*  
 **GitHub:** https://github.com/pragya378
 
